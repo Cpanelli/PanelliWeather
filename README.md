@@ -11,6 +11,13 @@ Weather Dashboard is a simple web application that allows users to check the cur
 - History of searched cities with quick access buttons.
 - Background image changes dynamically based on the searched city.
 
+
+## Screen Shots
+![Screenshot 2023-12-15 at 12 56 02 AM](https://github.com/Cpanelli/PanelliWeather/assets/133393733/766fa0f5-c3cd-4d54-8332-261cf8db4fe4)
+![Screenshot 2023-12-15 at 12 56 17 AM](https://github.com/Cpanelli/PanelliWeather/assets/133393733/384961e7-2c76-4553-ab5f-222fc62eacf6)
+![Screenshot 2023-12-15 at 12 56 23 AM](https://github.com/Cpanelli/PanelliWeather/assets/133393733/0061114f-9398-4f2b-93a5-9f35b6fbfec1)
+![Screenshot 2023-12-15 at 12 56 26 AM](https://github.com/Cpanelli/PanelliWeather/assets/133393733/eb5fb702-98cf-485c-abce-8f0804257513)
+
 ## Technologies Used
 
 - HTML
@@ -41,6 +48,12 @@ var APIKey = "your-api-key";
 ## Contributing
 
 Feel free to contribute to the project by opening issues or submitting pull requests.
+
+https://github.com/Cpanelli/PanelliWeather
+
+
+## Deployed Site
+https://cpanelli.github.io/PanelliWeather/
 
 ## License
 
